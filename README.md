@@ -8,6 +8,16 @@ Eu sou Aruã de Carvalho, tenho 20 anos. Estou na ELO faz 6 meses e atuo como de
 
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aruadecarvalho)
 
+
+## Instalação
+
+![Tutorial](./tutorial-install/img_1.png)
+
+```bash
+  git clone https://github.com/Elojr/capacitacao-html-css-2022.git
+```
+
+
 ## Recursos
 
 - [Tutorial Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
