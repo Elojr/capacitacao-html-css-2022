@@ -4,9 +4,11 @@
 Um site de noticias feito em HTML e CSS com o intuito de capacitar os novos trainees nas ELO Júnior.
 
 
+
 ## 👨‍💻 Sobre mim
 Eu sou Aruã de Carvalho, tenho 20 anos. Estou na ELO faz 6 meses e atuo como desenvolvedor Frontend.
- - [Meu Github](https://github.com/aruadecarvalho)
+
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aruadecarvalho)
 
 
 ## Recursos
