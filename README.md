@@ -1,6 +1,6 @@
 # Capacitação HTML e CSS
 
-Um site de noticias feito em HTML e CSS com o intuito de capacitar os novos trainees nas ELO Júnior.
+Um site de noticias feito em HTML e CSS com o intuito de capacitar os novos trainees da ELO Júnior.
 
 ## 👨‍💻 Sobre mim
 
