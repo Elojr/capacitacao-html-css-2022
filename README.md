@@ -1,12 +1,22 @@
 # Capacitação HTML e CSS
 
-Um site de noticias feito em HTML e CSS com o intuito de capacitar os novos trainees nas ELO Júnior.
+Um site de noticias feito em HTML e CSS com o intuito de capacitar os novos trainees da ELO Júnior.
 
 ## 👨‍💻 Sobre mim
 
-Eu sou Aruã de Carvalho, tenho 20 anos. Estou na ELO faz 6 meses e atuo como desenvolvedor Frontend.
+Eu sou Aruã de Carvalho, tenho 20 anos e faço engenharia mecânica na UFG. Estou na ELO há 6 meses e atuo como desenvolvedor Frontend.
 
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aruadecarvalho)
+
+
+## Instalação
+
+![Tutorial](./tutorial-install/img_1.png)
+
+```bash
+  git clone https://github.com/Elojr/capacitacao-html-css-2022.git
+```
+
 
 ## Recursos
 
