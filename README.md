@@ -20,6 +20,7 @@ Eu sou Aruã de Carvalho, tenho 20 anos e faço engenharia mecânica na UFG. Est
 
 ## Recursos
 
+- [MDN Web Docs](https://developer.mozilla.org/)
 - [Tutorial Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [CSS Tricks](https://css-tricks.com/)
 - [Google Fonts](https://fonts.google.com/)
