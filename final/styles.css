@@ -68,7 +68,7 @@ h3 {
 }
 
 h1 {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .title_img {
@@ -80,6 +80,31 @@ h1 {
   font-style: italic;
 }
 
+/************************* 
+        AUTHOR 
+**************************/
+
+.author__container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.author_img img {
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+}
+
+.author_description p {
+  color: #444;
+  font-size: 14px;
+}
+
+.author_description p:nth-child(3) {
+  font-style: italic;
+  font-size: 12px;
+}
 /************************* 
         ARTICLE 
 **************************/
@@ -103,8 +128,8 @@ h1 {
   margin: 80px auto;
   width: 700px;
   padding: 36px 50px 48px 50px;
-  border-radius: 36px;
-  background-color: #214f85;
+  background-image: linear-gradient(to right bottom, #1e4778, #4d729d);
+  border-radius: 18px;
   color: #fff;
 }
 
